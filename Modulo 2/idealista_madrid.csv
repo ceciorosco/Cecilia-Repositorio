@@ -1,0 +1,916 @@
+﻿price,baths,rooms,sqft,address
+1920000,3,3,183,Recoletos
+1995000,3,3,170,Castellana
+1300000,3,4,270,Hortaleza
+1650000,3,3,248,Chamartín
+1590750,3,3,116,Recoletos
+1590000,4,5,360,Cuatro Caminos
+5700000,5,4,305,Recoletos
+2190000,4,4,183,Goya
+1190000,2,2,112,Goya
+675000,2,3,153,Aravaca
+3950000,5,4,291,Recoletos
+752248,2,3,132,Sol
+995000,3,3,160,Bernabéu-Hispanoamérica
+1295000,3,4,229,Vallehermoso
+3900000,5,5,284,Castellana
+1175000,3,3,178,Huertas-Cortes
+1075000,3,3,169,Chamberí
+1970000,4,4,283,Bernabéu-Hispanoamérica
+4950000,7,6,886,Nueva España
+1800000,4,3,214,Huertas-Cortes
+990000,4,5,292,Aravaca
+1650000,5,5,367,Conde Orgaz-Piovera
+7900000,5,4,473,Castellana
+2450000,3,4,261,Chueca-Justicia
+1850000,5,5,306,Argüelles
+1255000,3,3,153,Nuevos Ministerios-Ríos Rosas
+1850000,5,5,438,Hortaleza
+780000,2,2,117,Centro
+1200000,4,4,300,Moncloa
+1125000,3,3,173,Retiro
+1200000,4,5,240,Moncloa
+2300000,3,4,242,Barrio de Salamanca
+698000,2,2,108,Barrio de Salamanca
+1237000,7,8,485,Peñagrande
+1625000,5,6,450,Mirasierra
+470000,2,3,95,Fuencarral
+475000,2,3,112,Comillas
+1950000,4,3,175,Centro
+950000,3,3,154,Chamartín
+750000,3,5,156,Argüelles
+1500000,2,2,168,Chamartín
+2100000,7,6,334,Chamartín
+5500000,6,7,1150,Hortaleza
+930000,4,5,265,Moncloa
+710000,2,3,127,Malasaña-Universidad
+730000,2,2,125,Nueva España
+1300000,4,3,133,Recoletos
+380000,1,3,75,Palos de Moguer
+1900000,4,6,372,Hortaleza
+720000,2,3,212,San Blas
+1400000,2,4,236,Prosperidad
+1100000,3,3,160,Bernabéu-Hispanoamérica
+1370000,5,4,248,Moncloa
+3000000,5,4,269,Bernabéu-Hispanoamérica
+575000,2,3,105,Chamartín
+1200000,2,2,124,Retiro
+1950000,6,6,488,Moncloa
+325000,1,2,76,Bellas Vistas
+1100000,3,5,199,Bernabéu-Hispanoamérica
+550000,1,2,97,Niño Jesús
+675000,2,1,91,El Viso
+1050000,4,6,259,Barrio de Salamanca
+2800000,5,5,452,Conde Orgaz-Piovera
+2600000,3,4,247,Recoletos
+320000,1,2,52,Palacio
+530000,2,3,93,Palos de Moguer
+550000,2,3,112,Palacio
+780000,1,2,102,Lista
+1080000,2,4,200,Ciudad Lineal
+238000,1,2,51,Lavapiés-Embajadores
+557000,2,3,91,Retiro
+2275000,4,5,399,El Viso
+1175000,5,5,360,Salvador
+2300000,3,3,237,El Viso
+1400000,4,3,125,Castellana
+750000,2,2,101,Barrio de Salamanca
+1250000,5,4,367,San Blas
+2800000,3,4,201,Almagro
+795000,3,4,175,Fuente del Berro
+750000,2,4,146,Centro
+425000,1,2,69,Gaztambide
+560000,2,5,148,Acacias
+1080000,2,2,101,Palacio
+1420000,2,2,107,Malasaña-Universidad
+233000,1,1,40,Ciudad Lineal
+590000,2,3,143,Fuente del Berro
+850000,2,3,145,Arapiles
+1650000,5,5,300,Hortaleza
+800000,3,5,213,Guindalera
+850000,1,4,139,Chamberí
+875000,5,7,348,Moncloa
+330000,1,2,60,Chueca-Justicia
+1395000,6,5,368,Fuencarral
+529900,1,2,88,Centro
+3500000,6,5,1525,Moncloa
+1435000,6,6,388,Fuencarral
+2950000,8,7,580,Moncloa
+695000,2,2,141,Centro
+1538000,6,8,605,Hortaleza
+2800000,5,5,780,Moncloa
+1450000,4,5,258,Moncloa
+3550000,9,8,720,Ciudad Universitaria
+2575000,4,4,215,Centro
+859000,3,3,133,Lavapiés-Embajadores
+1095000,3,3,188,Hortaleza
+880000,2,5,164,Puerta del Ángel
+910000,4,5,207,Ventilla-Almenara
+839000,2,2,106,Huertas-Cortes
+1625000,5,6,443,Mirasierra
+1049000,2,3,158,Almagro
+599000,2,2,107,Cuatro Caminos
+1650000,5,4,360,Hortaleza
+850000,2,3,135,Ciudad Lineal
+1290000,4,4,234,Moncloa
+2500000,5,6,306,Almagro
+1190000,4,5,231,Moncloa
+560000,2,3,74,Nuevos Ministerios-Ríos Rosas
+695000,2,2,262,Lavapiés-Embajadores
+1790000,4,5,414,Peñagrande
+979000,2,3,154,Acacias
+840000,3,4,254,Moncloa
+3200000,5,7,410,Chamartín
+3500000,6,5,890,Hortaleza
+1750000,3,4,220,Barrio de Salamanca
+3500000,7,6,1500,Moncloa
+899000,2,3,177,Barrio de Salamanca
+1300000,3,3,179,Hortaleza
+2300000,5,5,265,Chamartín
+359000,1,1,86,Rejas
+2200000,4,4,450,Fuencarral
+2190000,5,5,352,Hortaleza
+993000,2,4,165,Centro
+515000,1,2,78,Centro
+1200000,2,4,174,Centro
+1900000,4,3,193,Chamberí
+2395000,5,4,264,Nuevos Ministerios-Ríos Rosas
+1500000,3,3,137,Almagro
+378000,2,3,104,Pau de Carabanchel
+2390000,6,6,400,Moncloa
+164000,1,3,67,Zofío
+2990000,3,4,275,Castellana
+1420000,2,4,185,Chamartín
+410000,2,2,68,Guindalera
+780000,2,2,57,Chueca-Justicia
+2000000,3,4,216,Barrio de Salamanca
+1500000,4,5,400,Hortaleza
+1300000,4,3,121,Recoletos
+330000,2,2,80,Malasaña-Universidad
+719000,3,3,87,Malasaña-Universidad
+517000,2,3,109,La Paz
+490000,2,3,108,Valdezarza
+820000,4,5,287,Fuencarral
+435000,1,2,82,Argüelles
+399000,1,2,75,Fuente del Berro
+1550000,3,3,156,Lista
+549000,2,3,127,La Paz
+430000,2,2,76,Prosperidad
+450000,2,3,94,Pacífico
+870000,2,3,177,Ciudad Universitaria
+460000,1,4,126,Costillares
+338000,1,1,67,Trafalgar
+132000,1,1,46,Simancas
+530000,1,2,78,Ibiza
+1129000,3,2,98,Jerónimos
+439000,2,2,103,La Paz
+695000,2,4,125,Retiro
+950000,2,4,169,Trafalgar
+2770000,5,4,370,Nueva España
+250000,1,1,45,Guindalera
+1250000,4,5,302,Legazpi
+860000,2,2,195,Palomas
+1490000,3,2,133,Goya
+550000,1,2,97,Jerónimos
+649000,2,2,73,Goya
+442327,2,0,91,Castilla
+485000,1,1,48,Castellana
+1095000,3,4,270,Ciudad Universitaria
+1800000,6,5,440,Chamartín
+345000,2,3,98,Pinar del Rey
+400000,2,3,118,Acacias
+900000,3,3,138,Barrio de Salamanca
+1850000,3,4,297,Chamartín
+960000,2,6,204,Lavapiés-Embajadores
+789000,3,3,107,Chueca-Justicia
+2150000,5,4,400,Hortaleza
+315000,1,1,65,Goya
+1850000,5,5,302,Hortaleza
+995000,2,2,106,Lista
+1490000,3,2,133,Barrio de Salamanca
+1349000,3,3,183,Argüelles
+697000,1,2,122,Nuevos Ministerios-Ríos Rosas
+500000,1,2,96,Acacias
+1750000,3,2,150,Recoletos
+1850000,3,4,297,Chamartín
+890000,2,3,121,Vallehermoso
+375000,1,3,92,Pacífico
+369000,2,2,75,Cuzco-Castillejos
+849000,2,2,83,Lista
+385000,2,3,92,Valdezarza
+1450000,4,5,258,Ciudad Universitaria
+790000,3,3,137,Bernabéu-Hispanoamérica
+1680000,3,3,150,Barrio de Salamanca
+1450000,3,3,223,Barrio de Salamanca
+1710000,4,3,206,Chamberí
+950000,3,3,119,Malasaña-Universidad
+1050000,2,3,133,Ibiza
+1099000,4,4,166,Malasaña-Universidad
+4300000,3,10,451,Castellana
+525000,2,3,104,Palos de Moguer
+610000,2,2,113,Fuente del Berro
+1200000,2,3,140,Centro
+1495000,6,5,481,Hortaleza
+2100000,3,3,315,Centro
+950000,3,3,120,Cuzco-Castillejos
+1349000,3,3,137,Cuzco-Castillejos
+229000,2,3,118,San Isidro
+1950000,3,5,236,Barrio de Salamanca
+1380000,2,4,145,Barrio de Salamanca
+260000,1,0,78,Opañel
+1400000,3,2,138,Trafalgar
+1300000,3,4,257,Chamberí
+2200000,3,4,257,Barrio de Salamanca
+499000,1,3,88,Malasaña-Universidad
+715000,1,2,117,Barrio de Salamanca
+1049000,3,2,115,Lista
+1190000,2,3,135,Barrio de Salamanca
+850000,2,3,131,Colina
+680000,2,3,137,Hortaleza
+535000,3,4,133,San Blas
+410000,1,0,146,Guindalera
+1300000,3,3,179,Hortaleza
+648000,2,4,216,El Cañaveral
+680000,1,2,99,Centro
+550000,2,2,88,Centro
+710000,2,3,127,Malasaña-Universidad
+660000,3,5,202,Puerta del Ángel
+199000,1,1,14,Chueca-Justicia
+850000,3,4,238,Fuencarral
+1097000,3,3,150,Moncloa
+675000,1,2,139,Lista
+2225000,6,5,268,Nueva España
+870000,2,4,169,Trafalgar
+5500000,4,4,299,Recoletos
+3600000,5,5,379,Goya
+1650000,3,4,238,Almagro
+595000,1,3,89,Nuevos Ministerios-Ríos Rosas
+1190000,3,2,110,Goya
+1800000,5,6,276,Conde Orgaz-Piovera
+525000,1,4,131,Lavapiés-Embajadores
+1700000,4,4,232,Barrio de Salamanca
+1038800,3,3,205,Valdemarín
+1800000,4,3,150,Barrio de Salamanca
+529900,1,2,88,Centro
+3900000,5,5,284,Castellana
+958800,4,4,150,Aravaca
+675000,2,2,102,Tetuán
+267000,1,0,39,Palacio
+789000,3,3,100,Chueca-Justicia
+1670000,3,4,158,Castellana
+1175000,2,2,153,Trafalgar
+260000,1,2,66,Valdeacederas
+1980000,3,3,236,Barrio de Salamanca
+2450000,4,5,277,Barrio de Salamanca
+475000,1,1,72,Hortaleza
+319000,1,1,50,Arapiles
+2700000,4,4,304,Almagro
+1660000,3,3,228,Huertas-Cortes
+1920000,3,3,211,Recoletos
+1650000,2,2,137,Recoletos
+5000000,4,3,447,Recoletos
+1300000,3,4,235,Gaztambide
+2390000,4,4,200,Recoletos
+1290000,3,5,166,Chamartín
+510000,1,3,83,Guindalera
+1375000,3,4,247,Chamartín
+2700000,3,3,227,Jerónimos
+795000,2,3,138,Chamberí
+1329000,5,5,442,Prosperidad
+3700000,6,6,430,Nueva España
+3600000,3,5,358,Palacio
+875000,2,3,140,Valdebebas - Valdefuentes
+2100000,5,8,694,Ciudad Universitaria
+1125000,3,4,173,Ibiza
+995000,2,2,125,Malasaña-Universidad
+475000,1,2,75,Cuatro Caminos
+250000,1,1,40,Chueca-Justicia
+1250000,3,4,230,Tetuán
+569000,1,1,46,Lista
+795000,2,4,200,Malasaña-Universidad
+689000,2,3,161,Almendrales
+2290000,3,3,184,Chueca-Justicia
+420000,2,3,73,Canillas
+625000,2,3,125,Puerta del Ángel
+777000,1,2,111,Palacio
+1375000,3,5,197,Lista
+799000,3,6,143,Chamberí
+777000,1,2,111,Palacio
+850000,3,3,151,Imperial
+660000,1,2,107,Malasaña-Universidad
+720000,2,2,87,Centro
+950000,2,2,120,Almagro
+950000,5,6,430,Moncloa
+555000,2,3,110,Sanchinarro
+2500000,6,5,800,Hortaleza
+1230000,4,3,225,Retiro
+1200000,2,2,124,Jerónimos
+317000,1,2,60,Lavapiés-Embajadores
+350000,2,4,116,Ciudad Lineal
+1575000,2,2,189,Centro
+950000,2,4,157,Chamberí
+777000,1,2,111,Palacio
+1690000,4,5,252,Chamartín
+1760000,3,3,145,Chueca-Justicia
+1050000,3,5,265,Fuencarral
+2300000,3,4,242,Barrio de Salamanca
+1550000,2,7,272,Centro
+695000,2,3,120,Arapiles
+1580000,3,3,182,Barrio de Salamanca
+475000,1,1,79,Valdeacederas
+780000,2,2,74,Barrio de Salamanca
+385000,1,3,97,Imperial
+2100000,3,5,392,Chamartín
+515000,2,3,79,Fuente del Berro
+1150000,3,3,152,Barrio de Salamanca
+790000,1,1,62,Centro
+990000,2,3,146,Retiro
+945000,2,3,159,Chamberí
+3600000,4,5,360,Centro
+1705000,3,3,138,Barrio de Salamanca
+450000,2,3,105,Berruguete
+365900,2,3,105,Concepción
+249900,1,2,70,Quintana
+850000,2,3,128,Chamberí
+269900,2,3,85,Simancas
+385000,1,1,56,Lavapiés-Embajadores
+214900,1,2,70,Pueblo Nuevo
+349000,1,1,80,Valdeacederas
+345000,1,1,55,Centro
+290000,1,1,96,Simancas
+480000,2,3,100,Peñagrande
+1530000,2,2,133,Chamberí
+335000,2,2,70,San Isidro
+595000,2,4,123,Costillares
+995000,4,4,240,Fuencarral
+260000,1,1,60,Centro
+770000,2,4,123,Malasaña-Universidad
+535000,2,4,150,Fuencarral
+145000,1,3,54,Los Ángeles
+680000,1,2,92,Barrio de Salamanca
+279000,1,2,70,Berruguete
+1450000,4,5,340,Moncloa
+548000,1,2,75,Malasaña-Universidad
+5900000,4,4,277,Barrio de Salamanca
+179000,1,1,71,Ensanche de Vallecas - La Gavia
+299000,1,1,41,Chueca-Justicia
+339000,2,3,87,Berruguete
+404000,1,1,67,Chueca-Justicia
+285000,2,2,91,San Isidro
+525000,2,2,107,Conde Orgaz-Piovera
+579000,2,3,145,Pacífico
+779000,3,3,176,Lavapiés-Embajadores
+388000,1,1,61,Valdeacederas
+180000,1,2,92,San Diego
+388000,1,1,61,Valdeacederas
+265000,2,2,97,Butarque
+4200000,7,7,875,Hortaleza
+675000,2,3,152,Fuencarral
+690000,2,3,113,Centro
+1129500,2,3,188,El Viso
+388000,2,4,144,Campamento
+799000,4,5,180,Ciudad Lineal
+2575000,4,4,215,Palacio
+550000,2,2,69,Lista
+1150000,3,4,158,Retiro
+1598000,3,3,116,Recoletos
+1200000,2,2,114,Recoletos
+1400000,4,3,125,Castellana
+2200000,3,4,235,Chamartín
+2690000,7,5,745,Hortaleza
+879000,2,2,76,Castellana
+1400000,3,4,173,Chamartín
+999000,5,5,308,Moncloa
+3600000,4,5,336,El Viso
+3000000,6,5,746,Hortaleza
+309000,1,1,45,Centro
+850000,3,4,238,Fuencarral
+1250000,3,4,182,Barrio de Salamanca
+3000000,7,5,881,Fuencarral
+262500,1,1,63,Rejas
+2500000,7,8,862,Fuencarral
+1300000,4,4,247,Fuencarral
+920000,4,5,217,Ciudad Lineal
+3500000,2,4,738,Fuencarral
+970000,4,4,279,San Blas
+975000,4,7,484,Fuencarral
+3950000,5,4,290,Barrio de Salamanca
+203000,1,1,47,Almendrales
+2500000,7,6,510,Moncloa
+1490000,4,5,240,Chamartín
+1050000,3,5,265,Fuencarral
+460000,2,2,104,Fuencarral
+720000,2,3,212,San Blas
+1950000,7,6,650,Fuencarral
+375000,2,1,313,San Blas
+2075000,4,4,284,Fuencarral
+1150000,2,4,244,Ciudad Lineal
+880000,3,4,239,Hortaleza
+735000,2,2,107,Retiro
+945000,2,3,159,Chamberí
+599000,2,3,106,Retiro
+1650000,3,4,290,Hortaleza
+2750000,5,6,300,Chamartín
+685000,3,2,166,Goya
+1175000,3,4,171,Centro
+899000,2,3,177,Barrio de Salamanca
+329900,2,2,80,Colina
+1575000,2,2,209,Centro
+5500000,8,8,1150,Hortaleza
+1200000,4,4,421,Valdemarín
+1495000,3,4,224,Lista
+1700000,4,4,387,Fuencarral
+795000,2,3,128,Fuente del Berro
+949000,2,2,111,Goya
+1990000,5,4,242,Ciudad Jardín
+698000,2,2,108,Lista
+450000,1,3,78,Guindalera
+1715000,2,4,130,Huertas-Cortes
+650000,2,2,68,Huertas-Cortes
+1320000,3,4,255,Argüelles
+299000,2,3,154,Los Ángeles
+1450000,3,4,218,Moncloa
+1097900,3,4,203,Simancas
+390000,1,0,64,Chamberí
+910000,4,5,207,Ventilla-Almenara
+654000,2,2,159,Lavapiés-Embajadores
+1078900,3,4,239,Simancas
+749700,2,3,143,Valdebebas - Valdefuentes
+288000,1,1,52,Lavapiés-Embajadores
+760000,2,2,101,Ibiza
+920000,3,5,210,Argüelles
+300000,1,1,75,Berruguete
+560000,2,2,70,Argüelles
+150000,1,1,24,Lavapiés-Embajadores
+1400000,4,7,413,Costillares
+1140000,2,3,126,Ibiza
+859000,3,3,115,Centro
+800000,2,3,124,Lista
+389000,2,2,96,Simancas
+320000,1,2,66,Cuatro Caminos
+425000,1,3,80,Lavapiés-Embajadores
+850000,2,2,115,Chamberí
+380000,2,2,50,Chamberí
+999500,3,5,193,Castilla
+670000,2,4,126,Nueva España
+1500000,3,4,173,Castellana
+649000,1,2,73,Chamberí
+2690000,5,5,270,Almagro
+1356000,2,2,122,Palacio
+2690000,8,5,450,Conde Orgaz-Piovera
+2600000,4,4,459,Almagro
+1320000,2,3,140,Castellana
+660000,1,1,58,Argüelles
+464000,2,3,53,Malasaña-Universidad
+1750000,3,2,143,Recoletos
+629900,2,4,133,Estrella
+899000,1,5,144,Sol
+239900,2,4,157,Vista Alegre
+375000,1,1,66,Palacio
+299000,1,2,61,Malasaña-Universidad
+570000,2,4,160,Malasaña-Universidad
+470000,1,2,91,Palomas
+1330000,3,5,238,Castilla
+2095000,6,5,388,Fuencarral
+370000,1,4,86,Pacífico
+670000,2,3,140,Retiro
+4200000,4,5,404,Almagro
+598000,1,3,112,Centro
+610000,2,2,120,Colina
+125000,1,1,62,San Diego
+520000,3,2,111,Centro
+745000,3,4,153,Vallehermoso
+155000,1,1,43,Vista Alegre
+498000,2,5,139,Imperial
+2500000,11,11,500,Moncloa
+1290000,4,5,346,Hortaleza
+1650000,5,5,360,Hortaleza
+865000,2,2,104,Chamberí
+560000,2,2,84,Guindalera
+700000,1,3,103,Chamberí
+140000,1,2,56,San Isidro
+799000,2,2,75,Barrio de Salamanca
+369000,1,1,61,Ciudad Universitaria
+1490000,3,3,144,Barrio de Salamanca
+860000,3,6,363,Barajas
+8900000,6,5,713,Recoletos
+1440000,3,5,277,Chamberí
+698000,2,2,108,Barrio de Salamanca
+990000,4,6,293,Ciudad Lineal
+3465000,10,12,1380,Conde Orgaz-Piovera
+3100000,5,4,750,Conde Orgaz-Piovera
+1170000,2,2,117,Barrio de Salamanca
+370000,1,3,56,Chamartín
+1240000,5,9,601,Fuencarral
+1950000,3,4,283,El Viso
+475000,2,4,100,Chamartín
+2950000,5,6,700,Moncloa
+299000,2,3,101,Barajas
+860000,2,2,252,Hortaleza
+500000,1,1,78,Ciudad Lineal
+270000,1,1,80,Barajas
+769000,2,2,198,Retiro
+1100000,4,5,224,Ibiza
+137000,1,2,68,Ventas
+253000,1,3,80,Timón
+899000,2,3,204,Virgen del Cortijo - Manoteras
+859000,2,2,88,Sol
+334740,2,2,102,Pueblo Nuevo
+1499000,3,3,187,Cuzco-Castillejos
+155000,1,2,74,12 de Octubre-Orcasur
+990000,4,3,320,San Blas
+259000,1,2,54,Quintana
+1410000,2,3,118,Goya
+2200000,4,4,279,Cuzco-Castillejos
+850000,2,2,118,Arapiles
+1690000,6,6,533,Hortaleza
+1250000,5,4,275,Fuencarral
+1300000,3,3,165,Cuatro Caminos
+2300000,5,4,310,Nueva España
+940500,2,3,168,Gaztambide
+950000,2,3,150,Ciudad Lineal
+1445000,3,3,263,Chamartín
+3700000,4,5,407,Chamberí
+749000,2,2,104,Sol
+430000,1,1,82,Hortaleza
+865000,2,2,127,Chamberí
+780000,2,2,74,Barrio de Salamanca
+895000,2,3,101,Barrio de Salamanca
+1400000,2,3,150,Goya
+1690000,6,6,530,Conde Orgaz-Piovera
+1850000,5,5,302,Hortaleza
+875000,2,3,134,Hortaleza
+350000,1,1,79,Chamartín
+1250000,4,5,276,Barrio de Salamanca
+240000,1,2,100,Puente de Vallecas
+300000,2,4,98,Moratalaz
+1995000,3,3,174,Barrio de Salamanca
+1650000,2,2,181,Chamartín
+3700000,5,6,430,Chamartín
+1360000,3,2,210,Retiro
+1685000,4,4,222,Goya
+1320000,2,3,140,Barrio de Salamanca
+1400000,3,2,138,Chamberí
+3490000,3,5,383,Barrio de Salamanca
+900000,2,3,150,Hortaleza
+880000,3,3,167,Retiro
+1720000,5,4,221,Centro
+800000,2,3,158,Retiro
+720000,1,2,73,Barrio de Salamanca
+1175000,3,4,173,Palacio
+2290000,4,3,184,Centro
+435000,1,2,89,Argüelles
+485000,2,3,161,Fuencarral
+2580000,4,3,300,Ciudad Jardín
+3950000,8,8,725,Aravaca
+2500000,5,4,463,El Viso
+940000,2,3,139,Argüelles
+949000,2,3,240,Moncloa
+3200000,4,8,596,Almagro
+698000,2,2,108,Barrio de Salamanca
+2900000,2,3,216,Almagro
+1590000,4,4,307,Hortaleza
+3200000,4,7,596,Almagro
+3250000,3,5,300,Almagro
+2700000,3,3,200,Almagro
+1395000,2,3,177,Nueva España
+2300000,5,5,256,Chamartín
+875000,4,3,215,Fuentelarreina
+1450000,4,4,258,Bernabéu-Hispanoamérica
+1330000,3,5,234,Chamartín
+1190000,3,2,86,Goya
+2950000,3,4,350,Castellana
+2190000,3,3,209,Chueca-Justicia
+1850000,4,5,256,Cuzco-Castillejos
+5900000,8,5,730,Moncloa
+699000,3,5,160,Prosperidad
+3100000,4,4,395,Chamberí
+1299000,2,5,210,Goya
+3000000,8,5,881,Fuencarral
+890000,3,3,118,Centro
+3200000,4,7,573,Chamartín
+1385000,2,2,166,Centro
+1760000,2,3,145,Centro
+859000,2,3,133,Centro
+2500000,4,5,314,Chamberí
+900000,2,4,173,Centro
+3950000,5,4,291,Barrio de Salamanca
+640000,2,3,115,Moncloa
+1490000,3,4,216,Hortaleza
+1200000,2,3,243,Castilla
+650000,2,3,150,Fuencarral
+720000,2,2,125,Moncloa
+345000,1,2,42,Cuatro Caminos
+895000,4,6,272,Moncloa
+2500000,6,5,510,Moncloa
+2490000,4,4,593,Chamartín
+255900,1,3,93,Amposta
+3195000,4,6,460,Goya
+990000,2,3,102,Recoletos
+2150000,5,5,407,Hortaleza
+1690000,6,6,530,Hortaleza
+2060000,5,5,334,Hortaleza
+2500000,4,7,212,Chamartín
+2500000,4,3,343,Barrio de Salamanca
+1150000,5,4,370,San Blas
+719000,2,3,120,Hortaleza
+990000,1,2,104,Chamberí
+430000,2,3,91,Fuencarral
+1820000,3,5,380,Chamartín
+445000,2,3,104,Valdeacederas
+758500,2,3,170,Valdeacederas
+2450000,4,6,430,Niño Jesús
+1160000,3,5,202,Bernabéu-Hispanoamérica
+169000,1,0,36,Acacias
+900000,2,5,155,Guindalera
+2280000,3,4,268,Moncloa
+1400000,4,7,413,Ciudad Lineal
+229900,1,2,75,Pueblo Nuevo
+660000,1,1,58,Argüelles
+420000,1,1,57,Chamartín
+270000,1,2,53,Latina
+299000,1,2,59,Guindalera
+675000,3,6,195,Fuencarral
+1625000,4,3,192,Lista
+1150000,3,4,174,Ibiza
+1175000,2,2,118,Barrio de Salamanca
+620000,2,3,138,Guindalera
+2395000,5,4,264,Nuevos Ministerios-Ríos Rosas
+660000,2,1,120,Malasaña-Universidad
+2060000,5,5,334,Palomas
+1290000,4,5,390,Ciudad Lineal
+435000,2,2,102,Lavapiés-Embajadores
+920000,4,5,217,Ciudad Lineal
+660000,2,2,88,Retiro
+290000,1,2,42,Prosperidad
+750000,2,2,149,Moncloa
+850000,2,3,164,Ciudad Lineal
+1125000,2,4,142,Retiro
+1200000,3,4,209,Tetuán
+470000,2,3,121,Hortaleza
+1490000,2,3,120,Recoletos
+1050000,2,2,180,Retiro
+2100000,2,2,131,Retiro
+895000,2,2,102,Goya
+560000,2,2,84,Barrio de Salamanca
+1100000,2,3,247,Tetuán
+1445000,3,3,263,Chamartín
+2250000,3,4,256,Chamberí
+1225000,3,5,229,Vallehermoso
+1050000,3,4,191,Ciudad Lineal
+810000,2,3,131,Barrio de Salamanca
+720000,2,4,143,Chamberí
+750000,3,2,109,Retiro
+3950000,5,4,291,Barrio de Salamanca
+3200000,7,7,573,Chamartín
+1200000,3,4,168,Chamartín
+1250000,4,4,367,San Blas
+782300,2,3,193,Valdebebas - Valdefuentes
+3000000,4,4,269,Chamartín
+1890000,3,4,316,Moncloa
+999000,3,3,104,Chueca-Justicia
+169000,1,2,74,Almendrales
+2000000,1,3,142,Sol
+1290000,3,3,211,Tetuán
+1150000,3,3,143,Moncloa
+1100000,2,3,100,Barrio de Salamanca
+695000,2,2,262,Lavapiés-Embajadores
+1900000,4,7,370,Canillas
+1700000,6,6,540,Ciudad Universitaria
+1250000,5,4,300,Aravaca
+1650000,3,3,200,Barrio de Salamanca
+1695000,3,3,181,Barrio de Salamanca
+919000,3,3,112,Sol
+825000,4,4,164,Malasaña-Universidad
+990000,4,5,292,Moncloa
+575500,1,2,70,Malasaña-Universidad
+2950000,6,6,555,Moncloa
+1850000,5,7,302,Hortaleza
+3600000,6,5,376,Chamartín
+975000,4,7,484,Fuencarral
+1190000,6,5,400,Moncloa
+995000,4,4,240,Fuencarral
+1700000,3,3,124,Chamartín
+1100000,2,2,160,Centro
+1750000,3,4,200,Chamartín
+1300000,5,6,230,Hortaleza
+970000,4,4,287,Ciudad Lineal
+859000,3,3,133,Centro
+725000,2,5,200,Barrio de Salamanca
+4500000,4,7,524,Chamberí
+1348000,4,6,427,Ciudad Lineal
+3500000,6,5,325,Chamartín
+4200000,3,5,457,Chamberí
+2800000,8,7,780,Moncloa
+1690000,2,3,133,Centro
+5500000,9,7,1200,Moncloa
+3500000,10,7,749,Moncloa
+314000,1,3,76,Lavapiés-Embajadores
+730000,3,4,158,Ciudad Lineal
+2800000,6,5,452,Hortaleza
+980000,2,4,130,Hortaleza
+595000,2,4,140,Moncloa
+349000,1,1,51,Moncloa
+569000,2,3,104,Delicias
+1890000,3,4,234,El Viso
+2600000,4,4,214,Chamberí
+1339000,4,3,158,Goya
+179000,1,3,84,San Fermín
+499900,2,4,126,Estrella
+415000,1,1,94,Fuencarral
+995000,4,4,240,Fuencarral
+4750000,6,5,440,Chamartín
+1420000,3,5,185,Chamartín
+1400000,3,4,174,Chamartín
+1670000,5,4,165,Chamartín
+1650000,2,4,211,Chamartín
+1490000,3,3,142,Chamberí
+1350000,4,4,264,Fuencarral
+650000,2,3,153,Fuencarral
+670000,2,3,105,Retiro
+875000,2,3,101,Barrio de Salamanca
+2945000,3,3,281,Chamberí
+1725000,5,4,540,Hortaleza
+1495000,3,4,264,Chamartín
+730000,2,2,125,Chamartín
+1430000,3,3,164,Chamartín
+630000,3,3,132,Chamartín
+495000,1,1,98,Centro
+835000,5,4,302,Moncloa
+790000,2,6,167,Huertas-Cortes
+790000,3,3,137,Chamartín
+989000,3,3,112,Sol
+122000,1,2,48,Simancas
+3500000,6,6,489,Hortaleza
+635000,3,4,151,Retiro
+2395000,5,4,264,Chamberí
+1090000,3,4,208,Tetuán
+399000,1,1,70,Hortaleza
+719000,2,2,71,Goya
+1680000,4,3,214,Castellana
+230000,2,3,98,Buena Vista
+1490000,3,3,145,Trafalgar
+399000,1,2,81,Prosperidad
+699000,2,4,126,Ibiza
+825000,3,2,144,Hortaleza
+799000,2,2,75,Barrio de Salamanca
+1100000,2,2,112,Gaztambide
+1259000,3,3,157,Trafalgar
+210000,1,0,51,Canillas
+485000,2,3,180,Casco Histórico de Barajas
+850000,2,2,101,Goya
+379000,1,1,61,Cuatro Caminos
+830000,3,4,232,Timón
+2000000,5,6,305,Hortaleza
+1495000,3,4,224,Lista
+350000,1,0,61,Sol
+850000,2,2,100,Lista
+3195000,5,5,274,Almagro
+1450000,4,5,320,Colina
+1195000,2,2,90,Goya
+1025000,3,4,224,Gaztambide
+650000,2,3,120,Goya
+310000,1,3,73,Chopera
+450000,1,2,60,Sol
+417500,2,2,96,Valdeacederas
+830000,3,4,155,Chamartín
+310000,1,2,89,Ventas
+391000,2,2,104,Valdeacederas
+870000,2,2,91,Trafalgar
+1700000,7,6,595,El Plantío
+1100000,4,4,263,Hortaleza
+960000,2,4,150,Castellana
+565000,1,2,62,Trafalgar
+245000,1,1,70,Imperial
+375000,2,2,60,Argüelles
+2500000,5,6,399,Arapiles
+690000,2,3,138,Gaztambide
+2680000,3,3,199,Barrio de Salamanca
+1380000,2,2,120,Almagro
+2900000,12,7,1768,Moncloa
+345000,1,2,50,Ciudad Jardín
+1495000,3,3,188,Chamartín
+2600000,6,4,500,Malasaña-Universidad
+447500,2,2,96,Valdeacederas
+2990000,7,5,728,Ciudad Universitaria
+520000,2,3,102,Imperial
+585000,2,2,154,Tetuán
+4000000,6,6,969,Hortaleza
+697000,1,2,122,Nuevos Ministerios-Ríos Rosas
+1690000,6,6,533,Hortaleza
+2395000,5,5,781,Mirasierra
+1450000,5,5,340,Moncloa
+445000,3,3,111,Gaztambide
+329900,2,2,80,Colina
+735000,2,3,120,Valdebebas - Valdefuentes
+2600000,4,3,382,Centro
+240000,1,1,38,Malasaña-Universidad
+1000000,2,5,186,Lista
+379900,1,3,116,Salvador
+789000,3,3,107,Chueca-Justicia
+750000,2,2,127,Chueca-Justicia
+950000,3,3,127,Cuzco-Castillejos
+2055000,3,2,242,Barrio de Salamanca
+849000,3,3,111,Chueca-Justicia
+899000,3,3,107,Malasaña-Universidad
+780000,1,2,74,Castellana
+198000,1,3,70,Ventas
+1499000,4,3,196,Chueca-Justicia
+679000,3,2,75,Lista
+565000,2,3,108,Estrella
+160000,1,1,25,Lavapiés-Embajadores
+2500000,10,11,761,Valdemarín
+690000,2,4,163,Sol
+1000000,2,5,186,Lista
+1800000,4,3,214,Huertas-Cortes
+1200000,3,3,236,Prosperidad
+2900000,9,8,1768,Moncloa
+1220000,3,5,194,Vallehermoso
+640000,2,2,100,Centro
+1312500,3,4,215,Nuevos Ministerios-Ríos Rosas
+358000,2,3,100,Hortaleza
+2395000,4,4,700,Mirasierra
+580000,1,4,139,Centro
+425000,1,2,62,Huertas-Cortes
+3250000,3,6,300,Almagro
+595000,2,4,140,Hortaleza
+829000,3,3,102,Centro
+1145000,2,4,224,Centro
+1195000,3,6,213,Barrio de Salamanca
+695000,2,3,135,Chueca-Justicia
+2150000,6,6,575,Conde Orgaz-Piovera
+1075000,2,3,169,Nuevos Ministerios-Ríos Rosas
+950000,3,3,205,Moncloa
+308000,1,2,54,Trafalgar
+1550000,3,3,156,Barrio de Salamanca
+1900000,4,6,372,Canillas
+795000,3,2,201,Moncloa
+1175000,3,3,165,Centro
+590000,2,2,93,Malasaña-Universidad
+730000,1,1,81,Recoletos
+880000,3,4,180,Valdebebas - Valdefuentes
+850000,2,4,182,Arganzuela
+859000,2,2,88,Centro
+1200000,2,3,178,Gaztambide
+350000,1,2,76,Chopera
+1060000,4,5,276,Gaztambide
+550000,2,2,69,Lista
+1950000,7,8,660,Canillejas
+785000,2,2,116,Trafalgar
+990000,3,5,194,Vallehermoso
+1740000,2,4,172,El Viso
+475000,2,4,98,Hortaleza
+1450000,4,5,320,Ciudad Lineal
+1050000,4,5,337,Hortaleza
+579000,2,3,118,Pacífico
+560000,1,1,88,Chamartín
+1250000,2,2,150,Chueca-Justicia
+1150000,4,5,254,San Juan Bautista
+3300000,4,6,399,Chamartín
+675000,2,3,151,Valdezarza
+1950000,4,5,240,Barrio de Salamanca
+235000,1,2,64,Lavapiés-Embajadores
+840000,2,2,81,Goya
+2060000,5,5,334,Hortaleza
+950000,2,4,157,Nuevos Ministerios-Ríos Rosas
+660000,2,2,121,Malasaña-Universidad
+2055000,3,2,245,Lista
+1540000,3,4,345,Moncloa
+750000,2,2,105,Almagro
+1300000,2,4,236,Gaztambide
+449900,2,3,105,Quintana
+259900,1,2,61,Ventas
+1074000,2,5,179,Lista
+199000,1,2,66,Puerta del Ángel
+625000,2,5,117,Ibiza
+860000,3,4,191,Cuatro Caminos
+950000,2,3,125,Trafalgar
+290000,2,2,62,Lavapiés-Embajadores
+1650000,5,5,360,Conde Orgaz-Piovera
+2650000,2,7,272,Barrio de Salamanca
+1050000,6,6,420,Hortaleza
+349000,1,2,82,Arapiles
+1300000,3,5,305,Fuentelarreina
+299000,1,2,76,Costillares
+2500000,6,6,307,Chamberí
+850000,3,5,184,Ciudad Lineal
+609000,2,2,89,Guindalera
+785000,2,3,120,El Viso
+1950000,3,4,175,Lista
+1320000,2,3,140,Barrio de Salamanca
+1495000,6,6,482,Hortaleza
+3950000,5,4,291,Barrio de Salamanca
+1680000,3,3,214,Castellana
+465000,2,2,104,Valdeacederas
+1600000,4,4,249,Tetuán
+1150000,3,3,133,Malasaña-Universidad
+1200000,4,5,375,Ciudad Lineal
+210000,3,3,153,Puente de Vallecas
+795000,2,3,146,Palomas
+870000,3,3,314,Hortaleza
+500000,2,2,99,Centro
+1475000,4,5,376,Cuzco-Castillejos
+865000,2,2,127,Trafalgar
+7900000,5,4,473,Barrio de Salamanca
+990000,4,6,293,Ciudad Lineal
+1080000,2,4,270,Tetuán
