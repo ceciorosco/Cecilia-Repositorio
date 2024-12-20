@@ -173,7 +173,7 @@
 1490000,3,2,133,Goya
 550000,1,2,97,Jerónimos
 649000,2,2,73,Goya
-442327,2,0,91,Castilla
+442327,2,1,91,Castilla
 485000,1,1,48,Castellana
 1095000,3,4,270,Ciudad Universitaria
 1800000,6,5,440,Chamartín
@@ -217,7 +217,7 @@
 229000,2,3,118,San Isidro
 1950000,3,5,236,Barrio de Salamanca
 1380000,2,4,145,Barrio de Salamanca
-260000,1,0,78,Opañel
+260000,1,1,78,Opañel
 1400000,3,2,138,Trafalgar
 1300000,3,4,257,Chamberí
 2200000,3,4,257,Barrio de Salamanca
@@ -228,7 +228,7 @@
 850000,2,3,131,Colina
 680000,2,3,137,Hortaleza
 535000,3,4,133,San Blas
-410000,1,0,146,Guindalera
+410000,1,1,146,Guindalera
 1300000,3,3,179,Hortaleza
 648000,2,4,216,El Cañaveral
 680000,1,2,99,Centro
@@ -255,7 +255,7 @@
 3900000,5,5,284,Castellana
 958800,4,4,150,Aravaca
 675000,2,2,102,Tetuán
-267000,1,0,39,Palacio
+267000,1,1,39,Palacio
 789000,3,3,100,Chueca-Justicia
 1670000,3,4,158,Castellana
 1175000,2,2,153,Trafalgar
@@ -431,7 +431,7 @@
 299000,2,3,154,Los Ángeles
 1450000,3,4,218,Moncloa
 1097900,3,4,203,Simancas
-390000,1,0,64,Chamberí
+390000,1,1,64,Chamberí
 910000,4,5,207,Ventilla-Almenara
 654000,2,2,159,Lavapiés-Embajadores
 1078900,3,4,239,Simancas
@@ -621,7 +621,7 @@
 758500,2,3,170,Valdeacederas
 2450000,4,6,430,Niño Jesús
 1160000,3,5,202,Bernabéu-Hispanoamérica
-169000,1,0,36,Acacias
+169000,1,1,36,Acacias
 900000,2,5,155,Guindalera
 2280000,3,4,268,Moncloa
 1400000,4,7,413,Ciudad Lineal
@@ -756,14 +756,14 @@
 799000,2,2,75,Barrio de Salamanca
 1100000,2,2,112,Gaztambide
 1259000,3,3,157,Trafalgar
-210000,1,0,51,Canillas
+210000,1,1,51,Canillas
 485000,2,3,180,Casco Histórico de Barajas
 850000,2,2,101,Goya
 379000,1,1,61,Cuatro Caminos
 830000,3,4,232,Timón
 2000000,5,6,305,Hortaleza
 1495000,3,4,224,Lista
-350000,1,0,61,Sol
+350000,1,1,61,Sol
 850000,2,2,100,Lista
 3195000,5,5,274,Almagro
 1450000,4,5,320,Colina
