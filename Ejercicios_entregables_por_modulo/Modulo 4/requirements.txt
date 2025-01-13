@@ -1,0 +1,12 @@
+pip
+jupyter
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+plotly
+nbformat
+mysql-connector-python
+sqlalchemy
