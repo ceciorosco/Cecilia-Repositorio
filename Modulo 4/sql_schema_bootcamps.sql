@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS estudiantes(
     beca BOOLEAN,
     bootcamp_id INT,
     -- Opcion 1:
-    FOREIGN KEY (bootcamp_id) REFERENCES bootcamps(bootcamps_id) -- ON DELETE CASCADE
+    FOREIGN KEY (bootcamp_id) REFERENCES bootcamps(bootcamp_id) -- ON DELETE CASCADE
 
     -- Opcion 2:
     -- CONSTRAINT fk_estudiantes_bootcamps FOREIGN KEY (bootcamp_id) REFERENCES bootcamps(bootcamps_id) 
@@ -37,13 +37,13 @@ CREATE TABLE IF NOT EXISTS estudiantes(
     -- ON UPDATE CASCADE 
 );
 
-CREATE TABLE IF NOT EXISTS modulo-bootcamp(
+CREATE TABLE IF NOT EXISTS modulo_bootcamp(
     bootcamp_id INT NOT NULL,
     modulo_id INT NOT NULL,
     puntuacion TINYINT UNSIGNED, 
     PRIMARY KEY (bootcamp_id, modulo_id),
-    FOREIGN KEY bootcamp_id REFERENCES bootcamps(bootcamp_id) ON DELETE CASCADE,
-    FOREIGN KEY modulo_id REFERENCES modulos(modulo_id) ON DELETE CASCADE
+    FOREIGN KEY (bootcamp_id) REFERENCES bootcamps(bootcamp_id) ON DELETE CASCADE,
+    FOREIGN KEY (modulo_id) REFERENCES modulos(modulo_id) ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS asistencias(
