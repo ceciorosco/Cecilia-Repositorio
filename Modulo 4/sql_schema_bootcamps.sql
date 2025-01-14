@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS estudiantes(
     email VARCHAR(200),
     inscripcion DATE,
     beca BOOLEAN,
-    bootcamp_id INT
+    bootcamp_id INT,
     -- Opcion 1:
     FOREIGN KEY (bootcamp_id) REFERENCES bootcamps(bootcamps_id) -- ON DELETE CASCADE
 
