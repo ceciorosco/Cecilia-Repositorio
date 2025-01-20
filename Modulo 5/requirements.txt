@@ -1,0 +1,16 @@
+pip
+jupyter
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+plotly
+nbformat
+scikit-learn
+imbalanced-learn
+nltk
+textblob
+opencv-python
+tensorflow
