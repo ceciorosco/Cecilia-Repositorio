@@ -95,6 +95,103 @@ st.header('5. Gráficos con todos los filtros globales')
 
 st.subheader('5.1 Filtros')
 
+st.write('5.1.a. Filtros categóricos')
+
+col1, col2, col3 = st.columns(3)
+
+color = df['color'].unique().tolist()
+with col1:
+    selected_color = st.multiselect('Selecciona uno o varios colores', options=color, default=color)
+
+clarity = df['clarity'].unique().tolist()
+with col2:
+    selected_clarity = st.multiselect('Selecciona una o varias claridades', options=clarity, default=clarity)
+
+cut = df['cut'].unique().tolist()
+with col3:
+    selected_cut = st.multiselect('Selecciona uno o varios cortes', options=cut, default=cut)
+
+st.write('5.1.b. Filtros numéricos')
+
+# obtenemos mínimo y máximo para usarlo en los filtros de abajo
+col4, col5, col6 = st.columns(3)
+
+with col4:
+    carat_min, carat_max = st.slider(
+        'Selecciona rango de peso (carat)', 
+        min_value=df['carat'].min(),
+        max_value=df['carat'].max(),
+        value=(df['carat'].min(), df['carat'].max())
+    )
+
+with col5:
+    depth_min, depth_max = st.slider(
+        'Selecciona rango de densidad (depth)', 
+        min_value=df['depth'].min(),
+        max_value=df['depth'].max(),
+        value=(df['depth'].min(), df['depth'].max())
+    )
+
+with col6:
+    table_min, table_max = st.slider(
+        'Selecciona rango de mesa (table)', 
+        min_value=df['table'].min(),
+        max_value=df['table'].max(),
+        value=(df['table'].min(), df['table'].max())
+    )
+
+price_min, price_max = st.slider(
+    'Selecciona rango de precio (price)', 
+    min_value=df['price'].min(),
+    max_value=df['price'].max(),
+    value=(df['price'].min(), df['price'].max())
+)
+
+col7, col8, col9 = st.columns(3)
+
+with col7:
+    x_min, x_max = st.slider(
+        'Selecciona rango de alto (x)', 
+        min_value=df['x'].min(),
+        max_value=df['x'].max(),
+        value=(df['x'].min(), df['x'].max())
+    )
+
+with col8:
+    y_min, y_max = st.slider(
+        'Selecciona rango de ancho (y)', 
+        min_value=df['y'].min(),
+        max_value=df['y'].max(),
+        value=(df['y'].min(), df['y'].max())
+    )
+
+with col9:
+    z_min, z_max = st.slider(
+        'Selecciona rango de profundidad (z)', 
+        min_value=df['z'].min(),
+        max_value=df['z'].max(),
+        value=(df['z'].min(), df['z'].max())
+    )
+
+# Aplicar los filtros
+df_filtered = df[
+    (df['cut'].isin(selected_cut)) & 
+    (df['color'].isin(selected_color)) &
+    (df['clarity'].isin(selected_clarity)) &
+    (df['carat'] >= carat_min) & (df['carat'] <= carat_max) &
+    (df['depth'] >= depth_min) & (df['depth'] <= depth_max) &
+    (df['table'] >= table_min) & (df['table'] <= table_max) &
+    (df['price'] >= price_min) & (df['price'] <= price_max) &
+    (df['x'] >= x_min) & (df['x'] <= x_max) &
+    (df['y'] >= y_min) & (df['y'] <= y_max) &
+    (df['z'] >= z_min) & (df['z'] <= z_max)
+]
+
+st.table(df_filtered.head())
+st.write(f'Nº filas antes de filtrar: **{df.shape[0]}**')
+st.write(f'Nº filas después de filtrar: **{df_filtered.shape[0]}**')
+st.write(f'Nº filas eliminadas por filtro: **{df.shape[0] - df_filtered.shape[0]}**')
+
 
 
 st.subheader('5.2 Gráficos')
