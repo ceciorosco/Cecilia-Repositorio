@@ -61,7 +61,7 @@ with st.form('mi_formulario'):
         value=df['table'].mean(),
         min_value=df['table'].min(), 
         max_value=df['table'].max(),
-        step=0.1
+        step=0.01
     )
     
     price = st.number_input(
