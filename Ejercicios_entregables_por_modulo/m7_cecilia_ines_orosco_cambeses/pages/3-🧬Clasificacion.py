@@ -55,6 +55,14 @@ with st.form('mi_formulario'):
         max_value=df['depth'].max(),
         step=0.05
     )
+        
+    table = st.number_input(
+        'Introduce mesa (table):',
+        value=df['table'].mean(),
+        min_value=df['table'].min(), 
+        max_value=df['table'].max(),
+        step=0.1
+    )
     
     price = st.number_input(
         'Introduce precio (price):',
@@ -62,14 +70,6 @@ with st.form('mi_formulario'):
         min_value=df['price'].min(), 
         max_value=df['price'].max(),
         step=1
-    )
-    
-    table = st.number_input(
-        'Introduce mesa (table):',
-        value=df['table'].mean(),
-        min_value=df['table'].min(), 
-        max_value=df['table'].max(),
-        step=0.1
     )
     
     x = st.number_input(
